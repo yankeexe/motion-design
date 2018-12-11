@@ -54,4 +54,10 @@
 
   }
 
+  @-moz-document url-prefix() {
+    .team-button {
+      margin-top: 3px;
+    }
+  }
+
 }
